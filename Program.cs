@@ -11,6 +11,7 @@ namespace MyFirstGithubApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!! From Github.");
+            Console.WriteLine("Extending the Github application.")
             Console.ReadLine();
         }
     }
