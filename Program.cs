@@ -11,6 +11,7 @@ namespace MyFirstGithubApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!! From Github.");
+            Console.WriteLine("Adding content from rks-hs001.");
             Console.ReadLine();
         }
     }
