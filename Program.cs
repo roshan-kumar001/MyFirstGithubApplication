@@ -14,6 +14,7 @@ namespace MyFirstGithubApplication
             Console.WriteLine("Extending the Github application.");
             Console.WriteLine("Extending the master branch.");
             Console.WriteLine("Adding content from rks-hs001.");
+            Console.WriteLine("Trying out things on develop branch.");
             Console.ReadLine();
         }
     }
